@@ -18,10 +18,10 @@ app.get('/', (req, res) => {
             <meta property="fc:frame:image" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmW9hoQXMaqs9U29dWiZWujPmq1NkPkinqr6xruTjg8tMw">
             <meta property="fc:frame:image:aspect_ratio" content="1.91:1">
 
-            <meta property="fc:frame:button1" content="button1_value">
-            <meta property="fc:frame:button1:action" content="button1_action_value">
-            <meta property="fc:frame:button1:target" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">External</FrameButton>
-            </FrameContainer>
+            <meta property="fc:frame:button1" content="link">
+            <meta property="fc:frame:button1:action" content="link">
+            <meta property="fc:frame:button1:target" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
+          
 
             <title>basictest</title>
         </head>
