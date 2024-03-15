@@ -20,7 +20,8 @@ app.get('/', (req, res) => {
 
             <meta property="fc:frame:button1" content="button1_value">
             <meta property="fc:frame:button1:action" content="button1_action_value">
-            <meta property="fc:frame:button1:target" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
+            <meta property="fc:frame:button1:target" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">External</FrameButton>
+            </FrameContainer>
 
             <title>basictest</title>
         </head>
