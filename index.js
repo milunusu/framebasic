@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
             <meta property="fc:frame:image" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmW9hoQXMaqs9U29dWiZWujPmq1NkPkinqr6xruTjg8tMw">
             <meta property="fc:frame:image:aspect_ratio" content="1.91:1">
 
-            <meta property="fc:frame:button:1" content="Start">
+            <meta property="fc:frame:button:1" content="so mediocre">
             <meta property="fr:frame:post_url" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
           
 
