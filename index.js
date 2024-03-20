@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
 
             <meta property="fc:frame:button:1" content="so mediocre">
             <meta property="fc:frame:button:1:action" content="link">
-            <meta property="fr:frame:button:1:target" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
+            <meta property="fr:frame:button:1:target" content="https://onchainkit.xyz/frame/frame-metadata">
           
 
             <title>basictest</title>
