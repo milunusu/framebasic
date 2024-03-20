@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
 
             <meta property="fc:frame:button:1" content="so mediocre">
             <meta property="fc:frame:button:1:action" content="link">
-            <meta property="fc:frame:button:1:post_redirect" content="https://onchainkit.xyz/frame/frame-metadata">
+            <meta property="fc:frame:button:1:link" content="https://onchainkit.xyz/frame/frame-metadata">
           
 
             <title>basictest</title>
