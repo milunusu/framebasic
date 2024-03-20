@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <meta property="og:title" content="basictest">
-    
+            
             <meta property="og:image" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmW9hoQXMaqs9U29dWiZWujPmq1NkPkinqr6xruTjg8tMw">
         
             <meta property="fc:frame" content="vNext">
@@ -19,7 +19,8 @@ app.get('/', (req, res) => {
             <meta property="fc:frame:image:aspect_ratio" content="1.91:1">
 
             <meta property="fc:frame:button:1" content="so mediocre">
-            <meta property="post_redirect" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
+            <meta property="fc:frame:button:1:action" content="link">
+            <meta property="fr:frame:button:1:target" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
           
 
             <title>basictest</title>
