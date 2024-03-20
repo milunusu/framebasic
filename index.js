@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
 
             <meta property="fc:frame:button:1" content="so mediocre">
             <meta property="fc:frame:button:1:action" content="link">
-            <meta property="fc:frame:button:1:target" content="https://onchainkit.xyz/frame/frame-metadata">
+            <meta property="fc:frame:button:1:target" content="https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmQGN79J7rwX2NmZdEnyX6ViGWAiSJ6irMCyxFQmC4H2VL/1.jpg">
           
 
             <title>basictest</title>
