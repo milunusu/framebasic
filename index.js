@@ -19,8 +19,7 @@ app.get('/', (req, res) => {
             <meta property="fc:frame:image:aspect_ratio" content="1.91:1">
 
             <meta property="fc:frame:button:1" content="so mediocre">
-            <meta property="fc:frame:button:1:action" content="link">
-            <meta property="fr:frame:button:1:post_url" content="https://maroon-able-dolphin-503.mypinata.cloud/ipfs/QmPRmhLgJUETG2SDDrNDSiaiztDPF2EWYsbkGFmEzytxq7">
+            <meta property="fc:frame:button:1:post_redirect" content="https://onchainkit.xyz/frame/frame-metadata">
           
 
             <title>basictest</title>
